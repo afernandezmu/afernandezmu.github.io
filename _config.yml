@@ -28,7 +28,7 @@ github_username:  jekyllAlvaro
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: garth-jekyll-theme
 plugins:
   - jekyll-feed
 
